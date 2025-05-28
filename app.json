@@ -15,9 +15,11 @@
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
+      "bundleIdentifier": "com.expo.appjs25updateworkshopcode.benjakramm.development",
       "supportsTablet": true
     },
     "android": {
+      "package": "com.expo.appjs25updateworkshopcode.benjakramm.development",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
